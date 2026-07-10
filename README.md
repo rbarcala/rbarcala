@@ -25,5 +25,5 @@ Busco constantemente aplicar los fundamentos teóricos de la facultad en proyect
 | **Herramientas & DevOps** | `Git`, `GitHub`, `Docker`, `Linux` |
 
 ### 📫 Contacto
-*   - **LinkedIn:** [linkedin.com/in/ramiro-barcala-roca-40013917](https://www.linkedin.com/in/ramiro-barcala-roca-40013917)
+*   **LinkedIn:** [linkedin.com/in/ramiro-barcala-roca-40013917](https://www.linkedin.com/in/ramiro-barcala-roca-40013917)
 *   **Correo Electrónico:** [rbarcala@fi.uba.ar](mailto:rbarcala@fi.uba.ar)
