@@ -1,4 +1,4 @@
-# ¡Hola! Soy Ramiro Barcala
+# [¡Hola! Soy Ramiro Barcala](https://rbarcala.github.io/)
 
 Estudiante de **Ingeniería Informática** y **Licenciatura en Análisis de Sistemas** en la Universidad de Buenos Aires (**FIUBA**). Me apasiona el diseño de software, la resolución de problemas complejos a través del código y la arquitectura de sistemas eficientes. 
 
@@ -26,6 +26,5 @@ Busco constantemente aplicar los fundamentos teóricos de la facultad en proyect
 
 ### 📫 Contacto
 *   **LinkedIn:** [linkedin.com/in/ramiro-barcala-roca](https://www.linkedin.com/in/ramiro-barcala-roca)
-*   **Portafolio:** [rbarcala.github.io/](https://rbarcala.github.io/)
 *   **Correo Electrónico:** [rbarcala@fi.uba.ar](mailto:rbarcala@fi.uba.ar)
 
