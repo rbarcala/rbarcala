@@ -27,3 +27,4 @@ Busco constantemente aplicar los fundamentos teóricos de la facultad en proyect
 ### 📫 Contacto
 *   **LinkedIn:** [linkedin.com/in/ramiro-barcala-roca](https://www.linkedin.com/in/ramiro-barcala-roca)
 *   **Correo Electrónico:** [rbarcala@fi.uba.ar](mailto:rbarcala@fi.uba.ar)
+*   **Portafolio**[rbarcala.github.io/](https://rbarcala.github.io/)
